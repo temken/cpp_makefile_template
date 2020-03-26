@@ -1,3 +1,18 @@
+*.DS_Store
+.depend
+
+#Ignore
+*.sublime-project
+*.sublime-workspace
+
+#Ignore executables
+bin/*
+
+# Ignore codecove files
+*.gcov
+*.gcda
+*.gcno
+
 # Prerequisites
 *.d
 
