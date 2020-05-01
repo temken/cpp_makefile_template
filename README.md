@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.com/temken/cpp_makefile_template.svg?branch=master)](https://travis-ci.com/temken/cpp_makefile_template)
-[![codecov](https://codecov.io/gh/temken/cpp_makefile_template/branch/master/graph/badge.svg)](https://codecov.io/gh/temken/cpp_makefile_template)
+[![Build Status](https://travis-ci.com/temken/template_cpp_make.svg?branch=master)](https://travis-ci.com/temken/template_cpp_make)
+[![codecov](https://codecov.io/gh/temken/template_cpp_make/branch/master/graph/badge.svg)](https://codecov.io/gh/temken/template_cpp_make)
 
-# cpp_makefile_template
+# template_cpp_make
 C++ project template with build via makefile.
