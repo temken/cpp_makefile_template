@@ -1,6 +1,6 @@
 
 #Compiler and compiler flags
-CXX := g++-5
+CXX := g++
 CXXFLAGS := -Wall -std=c++11 
 LIB := 
 INC := -I include
